@@ -14,7 +14,7 @@ I'm a computer scinece student at Elektrotehniška in računalniška šola Nova 
 - SQL
 - Javascript
 
-## Other Common Github Profile Sections
+## Current activities
 👩‍💻 I'm currently working on designing 2 seperate websites
 
 🧠 I'm currently learning c#, js and php
