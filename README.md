@@ -13,11 +13,10 @@ I'm a computer scinece student at Elektrotehniška in računalniška šola Nova 
 - CSS
 - SQL
 - Javascript
-
+- Unity C#
 ## Current activities
-👩‍💻 I'm currently working on designing 2 seperate websites
 
-🧠 I'm currently learning c#, js and php
+🧠 I'm currently designing a game called Bury the light.
 
 <!---
 benjaminplayer/benjaminplayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
